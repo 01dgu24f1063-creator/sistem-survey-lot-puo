@@ -1,0 +1,10 @@
+streamlit
+pandas
+geopandas
+shapely
+folium
+streamlit-folium
+pyproj
+# Library pendukung untuk file handling dan performa
+fiona
+pyarrow
